@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mostafa Al-Haj Qasem
-### I am Full Stack Developer 
+### I am Frontend Developer 
 
 Skills: Python / Java / React / Express / MySQL / MongoDB / JS / HTML / CSS 
 
